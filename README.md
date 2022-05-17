@@ -1,2 +1,4 @@
 # excelExportJsonAndDTS
 excel导出json和d.ts文件
+
+运行run.bat会将config_xlsx文件夹内的所有xlsx导出json和对应的d.ts文件
